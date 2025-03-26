@@ -6,6 +6,7 @@ import Cylinder from './Cylinder.vue'
 import Dodecahedron from './Dodecahedron.vue'
 import Icosahedron from './Icosahedron.vue'
 import Line2 from './Line2.vue'
+import MergeGeometries from './MergeGeometries.vue'
 import Octahedron from './Octahedron.vue'
 import Plane from './Plane.vue'
 import Ring from './Ring.vue'
@@ -26,6 +27,7 @@ export {
   Dodecahedron,
   Icosahedron,
   Line2,
+  MergeGeometries,
   Octahedron,
   Plane,
   Ring,

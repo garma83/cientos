@@ -15,6 +15,11 @@ export const shapesRoutes = [
     component: () => import('../../pages/shapes/Line2Demo.vue'),
   },
   {
+    path: '/shapes/mergegeometries',
+    name: 'MergeGeometries',
+    component: () => import('../../pages/shapes/MergeGeometries.vue'),
+  },
+  {
     path: '/shapes/superformula',
     name: 'Superformula',
     component: () => import('../../pages/shapes/SuperformulaDemo.vue'),
